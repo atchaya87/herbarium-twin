@@ -16,7 +16,7 @@ AI-assisted metadata from box photos via Gemini vision, editable fields, local S
 ### 1. Clone the repo and enter the folder
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/atchaya87/herbarium-twin
 cd herbarium_twin
 ```
 
