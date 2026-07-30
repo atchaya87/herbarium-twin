@@ -17,7 +17,7 @@ AI-assisted metadata from box photos via Gemini vision, editable fields, local S
 
 ```bash
 git clone https://github.com/atchaya87/herbarium-twin
-cd herbarium_twin
+cd herbarium-twin
 ```
 
 ### 2. Create and activate a virtual environment
