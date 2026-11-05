@@ -81,6 +81,3 @@ herbarium_twin/
 - On the Gemini free tier, submitted images/text may be used by Google to improve their models. Enable billing on your Google AI Studio account if this is a concern for sensitive collections.
 - `herbarium_database.db`, `captured_images/`, and `qr_codes/` are local, generated at runtime, and excluded from version control via `.gitignore` — they are not included when you clone the repo.
 
-## License
-
-Add your license here.
